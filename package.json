@@ -1,0 +1,14 @@
+{
+  "name": "simple_lisp",
+  "version": "1.0.0",
+  "description": "A Simple Lisp interpreter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lisp"
+  ],
+  "author": "Leo Mehraban",
+  "license": "MIT"
+}
