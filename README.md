@@ -11,6 +11,7 @@ the rest of the functions you have to create yourself.
 datatypes: thare are are lists, nums, strings, and chars.
 ## installing
 `$ npm install simple_lisp -g`
+NOTE: not publisd to npm yet. soon you can run this command
 
 ## running
 `$ simple_lisp path/to/file.slisp`
